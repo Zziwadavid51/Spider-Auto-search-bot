@@ -158,7 +158,6 @@ async def start(client, message):
                           InlineKeyboardButton('🍿', url=GRP_LNK)
                     ], [
                           InlineKeyboardButton('🗑️', callback_data='close_data')
-]
                          ]
                         ]
                     )
@@ -179,7 +178,6 @@ async def start(client, message):
                           InlineKeyboardButton('🍿', url=GRP_LNK)
                     ], [
                           InlineKeyboardButton('🗑️', callback_data='close_data')
-]
                          ]
                         ]
                     )
@@ -345,7 +343,6 @@ async def start(client, message):
                        InlineKeyboardButton('🍿', url=GRP_LNK)
                     ], [
                           InlineKeyboardButton('🗑️', callback_data='close_data')
-                       ]
                      ]
                     ]
                 )
@@ -409,7 +406,6 @@ async def start(client, message):
                       InlineKeyboardButton('🍿', url=GRP_LNK)
                     ], [
                           InlineKeyboardButton('🗑️', callback_data='close_data')
-                       ]
                      ]
                     ]
                 )
@@ -471,7 +467,6 @@ async def start(client, message):
               InlineKeyboardButton('🍿', url=GRP_LNK)
                     ], [
                           InlineKeyboardButton('🗑️', callback_data='close_data')
-                       ]
              ]
             ]
         )
