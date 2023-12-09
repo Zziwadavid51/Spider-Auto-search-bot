@@ -158,7 +158,10 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
 
-SEND MOVIE NAME ONLY!!!
+SEND MOVIE OR SERIES NAME ONLY!!!
+
+REQUEST AGAIN AFTER SOME TIME 
+FILES WILL BE UPLOADED...
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
