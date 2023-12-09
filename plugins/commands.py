@@ -156,9 +156,7 @@ async def start(client, message):
                           InlineKeyboardButton('📮', url="https://t.me/+oSmcepKMSp01NzI0"),
                           InlineKeyboardButton('📡', url=CHNL_LNK),
                           InlineKeyboardButton('🍿', url=GRP_LNK)
-                    ], [
-                          InlineKeyboardButton('🗑️', callback_data='close_data')
-                         ]
+                    ]
                         ]
                     )
                 )
@@ -176,9 +174,7 @@ async def start(client, message):
                           InlineKeyboardButton('📮', url="https://t.me/+oSmcepKMSp01NzI0"),
                           InlineKeyboardButton('📡', url=CHNL_LNK),
                           InlineKeyboardButton('🍿', url=GRP_LNK)
-                    ], [
-                          InlineKeyboardButton('🗑️', callback_data='close_data')
-                         ]
+                    ]
                         ]
                     )
                 )
@@ -341,9 +337,7 @@ async def start(client, message):
                        InlineKeyboardButton('📮', url="https://t.me/+oSmcepKMSp01NzI0"),
                        InlineKeyboardButton('📡', url=CHNL_LNK),
                        InlineKeyboardButton('🍿', url=GRP_LNK)
-                    ], [
-                          InlineKeyboardButton('🗑️', callback_data='close_data')
-                     ]
+                    ]
                     ]
                 )
             )
@@ -404,9 +398,7 @@ async def start(client, message):
                       InlineKeyboardButton('📮', url="https://t.me/+oSmcepKMSp01NzI0"),
                       InlineKeyboardButton('📡', url=CHNL_LNK),
                       InlineKeyboardButton('🍿', url=GRP_LNK)
-                    ], [
-                          InlineKeyboardButton('🗑️', callback_data='close_data')
-                     ]
+                    ]
                     ]
                 )
             )
@@ -465,9 +457,7 @@ async def start(client, message):
               InlineKeyboardButton('📮', url="https://t.me/+oSmcepKMSp01NzI0"),
               InlineKeyboardButton('📡', url=CHNL_LNK),
               InlineKeyboardButton('🍿', url=GRP_LNK)
-                    ], [
-                          InlineKeyboardButton('🗑️', callback_data='close_data')
-             ]
+                    ]
             ]
         )
     )
